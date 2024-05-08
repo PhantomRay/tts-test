@@ -4,7 +4,7 @@ Enter words in cli and output to wav file.
 
 ```sh
 export SPEECH_KEY=xxxxxxxx
-export region=australiaeast
+export SPEECH_REGION=australiaeast
 
 node cli.js
 ```
